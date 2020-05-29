@@ -1,0 +1,43 @@
+Room 1:
+Roomsize: 45 ft
+Special Condition: None
+Traps in the room: No
+Terrain: Swamp
+Creatures: Yes
+Creature Type(s): Undead Fey Construct 
+
+Room 2:
+Roomsize: 85 ft
+Special Condition: None
+Traps in the room: Yes
+Number of Traps: 2
+Terrain: None
+Boss Room
+Boss Type(s): Humanoid 
+
+Room 3:
+Roomsize: 80 ft
+Special Condition: Super Weight Room
+Traps in the room: Yes
+Number of Traps: 2
+Terrain: Cave
+Creatures: Yes
+Creature Type(s): Monstrosity Construct 
+
+Room 4:
+Roomsize: 70 ft
+Special Condition: None
+Traps in the room: No
+Terrain: None
+Creatures: Yes
+Creature Type(s): Swarm of Tiny Beasts 
+
+Room 5:
+Roomsize: 55 ft
+Special Condition: Double Damage Room
+Traps in the room: Yes
+Number of Traps: 1
+Terrain: None
+Creatures: Yes
+Creature Type(s): Celestial Celestial Plant 
+

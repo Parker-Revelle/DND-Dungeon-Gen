@@ -1,0 +1,19 @@
+Room 1:
+Roomsize: 125 ft
+Special Condition: None
+Traps in the room: Yes
+Number of Traps: 2
+Terrain: None
+Creatures: Yes
+Creature Type(s): Construct 
+Notes: Many players died
+
+Room 2:
+Roomsize: 125 ft
+Special Condition: Zero Gravity Room
+Traps in the room: No
+Terrain: None
+Creatures: Yes
+Creature Type(s): Construct Fey 
+Notes: The rest died
+

@@ -1,0 +1,3 @@
+﻿  DndRoomGen.cpp
+C:\Users\pgrev\Desktop\Comp Sci\c++\DndRoomGen\DndRoomGen\DndRoomGen.cpp(184,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DndRoomGen.vcxproj -> C:\Users\pgrev\Desktop\Comp Sci\c++\DndRoomGen\Debug\DndRoomGen.exe

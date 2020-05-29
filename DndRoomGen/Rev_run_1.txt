@@ -1,0 +1,34 @@
+Room 1:
+Roomsize: 105 ft
+Special Condition: All spells are cast at highest possible levels
+Traps in the room: No
+Terrain: Mountain
+Creatures: Yes
+Creature Type(s): Fey Humanoid Ooze 
+
+Room 2:
+Roomsize: 125 ft
+Special Condition: None
+Traps in the room: No
+Terrain: None
+Creatures: No
+Creature Type(s): N/A
+
+Room 3:
+Roomsize: 65 ft
+Special Condition: Spellslot Recovery Room
+Traps in the room: Yes
+Number of Traps: 2
+Terrain: None
+Creatures: Yes
+Creature Type(s): Giant 
+
+Room 4:
+Roomsize: 25 ft
+Special Condition: None
+Traps in the room: Yes
+Number of Traps: 1
+Terrain: None
+Boss Room
+Boss Type(s): Celestial Dragon Demon 
+
